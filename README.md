@@ -84,8 +84,8 @@ Sama seperti versi console, tidak ada fitur Update, Hapus, maupun Cari Data pada
 
 2. Tambah Data
 
-  <img width="1920" height="1080" alt="PHP_TambahData" src="https://github.com/user-attachments/assets/95a16790-d669-490a-b88f-a27cf54ca0b0" />
+   <img width="1920" height="1080" alt="PHP_TambahData" src="https://github.com/user-attachments/assets/95a16790-d669-490a-b88f-a27cf54ca0b0" />
 
-3. Setelah Tambah
+4. Setelah Tambah
 
    <img width="1920" height="1080" alt="PHP_SetelahTambah" src="https://github.com/user-attachments/assets/a5d51d9b-ff8f-4236-b165-dcdb9f781ed0" />
