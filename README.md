@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="PHP_TampilAwal" src="https://github.com/user-attachments/assets/64f6d86b-9e7f-4d0d-9399-a1bb0a494acc" /># Data Film Franchise Bioskop
+# Data Film Franchise Bioskop
 
 ## Janji
 
