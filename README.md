@@ -89,5 +89,3 @@ Sama seperti versi console, tidak ada fitur Update, Hapus, maupun Cari Data pada
 3. Setelah Tambah
 
    <img width="1920" height="1080" alt="PHP_SetelahTambah" src="https://github.com/user-attachments/assets/a5d51d9b-ff8f-4236-b165-dcdb9f781ed0" />
-
-5. 
