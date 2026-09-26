@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "judul": "Avengers: Endgame",
+        "durasi": 181,
+        "genre": "Aksi",
+        "sutradara": "Anthony Russo",
+        "ratingUsia": "13+",
+        "gambar": "image\/film_6aaffe4fe7d9c.png",
+        "jilidKe": 4,
+        "namaFranchise": "Avengers",
+        "judulSelanjutnya": "-"
+    },
+    {
+        "id": 2,
+        "judul": "John Wick 4",
+        "durasi": 169,
+        "genre": "Aksi",
+        "sutradara": "Chad Stahelski",
+        "ratingUsia": "17+",
+        "gambar": "image\/film_6aaffe4fe7d9ca.jpg",
+        "jilidKe": 4,
+        "namaFranchise": "John Wick",
+        "judulSelanjutnya": "-"
+    },
+    {
+        "id": 3,
+        "judul": "Fast X",
+        "durasi": 141,
+        "genre": "Aksi",
+        "sutradara": "Louis Leterrier",
+        "ratingUsia": "13+",
+        "gambar": "image\/film_6ab0002951d41.jpg",
+        "jilidKe": 10,
+        "namaFranchise": "Fast & Furious",
+        "judulSelanjutnya": "Fast & Furious 11"
+    },
+    {
+        "id": 4,
+        "judul": "Toy Story 4",
+        "durasi": 100,
+        "genre": "Animasi",
+        "sutradara": "Josh Cooley",
+        "ratingUsia": "SU",
+        "gambar": "image\/film_6aafff2a9cbaa.jpg",
+        "jilidKe": 4,
+        "namaFranchise": "Toy Story",
+        "judulSelanjutnya": "-"
+    },
+    {
+        "id": 5,
+        "judul": "Spider-Man: No Way Home",
+        "durasi": 148,
+        "genre": "Aksi",
+        "sutradara": "Jon Watts",
+        "ratingUsia": "13+",
+        "gambar": "image\/film_6aafff2a9cbcc.jpg",
+        "jilidKe": 3,
+        "namaFranchise": "Spider-Man (Trilogi Home)",
+        "judulSelanjutnya": "-"
+    }
+]

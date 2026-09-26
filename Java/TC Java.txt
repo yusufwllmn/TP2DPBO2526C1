@@ -1,0 +1,45 @@
+TEST CASE INPUT DATA Java
+(DIWAJIBKAN MASUK KE MENU TAMBAH DATA DULU DENGAN INPUT 1, BARU UJI INPUT MENGGUNAKAN TESTCASE DIBAWAH)
+
+TestCase 1: Tambah Data valid, bukan bagian franchise
+7
+Oppenheimer
+180
+Drama Sejarah
+Christopher Nolan
+17+
+1
+Oppenheimer
+-
+
+TestCase 2: ID sudah dipakai (pakai ID 3, yang sudah dipakai Fast X)
+1
+
+TestCase 3: Uji Validasi Input Tidak Valid (Desimal, Huruf, Kosong) pada Semua Atribut
+12.5
+abc123
+-3
+0
+50
+   
+Film Pengujian
+12.5
+abc
+-90
+0
+120
+   
+Aksi
+   
+Yusuf Willman Hammam
+   
+17+
+2.5
+xyz
+-1
+0
+1
+   
+Franchise Test
+   
+-

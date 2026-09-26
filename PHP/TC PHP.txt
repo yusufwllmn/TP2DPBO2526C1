@@ -1,0 +1,13 @@
+TEST CASE INPUT DATA PHP
+(DIWAJIBKAN MASUK KE MENU TAMBAH DATA DULU)
+
+ID		  : 6
+Judul 		  : Haikyuu!! The Dumpster Battle
+Durasi		  : 85
+Genre		  : Sport
+Sutradara	  : Susumu Mitsunaka
+Rating Usia	  : 13+
+Jilid Ke	  : 5
+Nama Franchise	  : Haikyuu!!
+Judul Selanjutnya : -
+Gambar		  : (bebas, opsional)	
